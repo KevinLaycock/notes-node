@@ -1,1 +1,0 @@
-Hello WorldHello WorldHello WorldHellokevin!Hello kevin!Hello $(user.username)!Hello kevin!Hello kevin!Hello kevin!Hello kevin!Hello kevin!Hello kevin! You are undefined.Hello kevin! You are undefined.Hello kevin! You are 25.Hello kevin! You are undefined.
